@@ -31,7 +31,6 @@ class Raspberry
     @index
   end
 
-
 end
 
 class RaspberryBush
